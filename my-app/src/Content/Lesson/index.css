@@ -1,0 +1,58 @@
+.lesson-container{
+    flex-direction: column;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    height: 20%;
+}
+.child-lesson{
+    width: 33%;
+    margin-top: 40px;
+}
+#header-lesson{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    margin: 0;
+    color: #000000;
+}
+.half-content{
+    display: flex;
+
+}
+.content-lesson{
+
+}
+#description-lesson-right{
+    font-size: 0.7vw;
+}
+#description-lesson-bottom{
+    margin: 0;
+    font-size: 0.7vw;
+}
+#image-lesson{
+
+}
+.lesson-inner{
+    display: flex;
+    width: 80%
+}
+.footer{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+margin: 40px;
+color: #3E3E3E;
+
+}
+#text-footer{
+    width: 125px;
+    height: 19px;
+    margin: 1% 2%;
+}

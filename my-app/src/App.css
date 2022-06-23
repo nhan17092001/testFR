@@ -1,0 +1,16 @@
+.main-container{
+  display: flex;
+  flex: 1;
+  height: 100%;
+}
+p{
+  font-size:0.5vw
+}
+ html, body {
+  height: 100%;
+  margin: 0;
+}
+#root{
+  height: 100%;
+}
+span{font-size: 0.6vw;}

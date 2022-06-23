@@ -1,0 +1,14 @@
+.item-container{
+    background: black;
+    color: white
+  
+}
+.child_item{
+    padding: 0.5em 2em 0.5em 2em;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+height: 25px
+}

@@ -1,0 +1,51 @@
+.introduce-container{
+   display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    height: 50%;
+}
+.introduce-picture{
+    height: 40%;
+    width: 100%;
+  
+}
+.introduce-content{
+    width: 80%;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    height: 210px;
+    background: #EFEFEF;
+    height: 60%;
+}
+#image-ncc{
+    width: 25%;
+    height: 59%;
+    margin: 20px 40%;
+}
+#introduce-content-header{
+    width: 17%;
+    height: 21px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    font-size: 1vw;
+}
+
+#introduce-content-body{    height: 95px;
+    height: 95px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    width: 60%;
+    text-align: center;
+    font-size: 1.2vw;
+  }
