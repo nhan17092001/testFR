@@ -17,6 +17,7 @@
     line-height: 28px;
     margin: 0;
     color: #000000;
+    font-size: 1.5vw
 }
 .half-content{
     display: flex;
@@ -33,7 +34,7 @@
     font-size: 0.7vw;
 }
 #image-lesson{
-
+    width: 30%
 }
 .lesson-inner{
     display: flex;
